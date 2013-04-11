@@ -81,7 +81,7 @@ public class StateReportActor extends UntypedActor {
 	    			if(st) {
 						System.out.print("X");
 					} else {
-						System.out.print("o");
+						System.out.print(".");
 					}
 	    		}
 	    		System.out.println();
